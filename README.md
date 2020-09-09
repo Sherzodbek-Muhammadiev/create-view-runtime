@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Sherzodbek-Muhammadiev/create-view-runtime/blob/master/screen.gif)
