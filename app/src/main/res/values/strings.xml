@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="add">Add</string>
+    <string name="clear_inputs">Clear Texts</string>
+</resources>
